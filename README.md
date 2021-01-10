@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello ! 👋
+ℹ My Name Is Arman !
 
-<!--
-**ArmTimDev/ArmTimDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ I Have 11 Years Old !
 
-Here are some ideas to get you started:
+👨‍💻 I Love Programming !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍🎓 Im Learning :
+1. HTML ( Not A Programming Language 😅 )
+2. CSS
+3. JavaScript 
+
+👨‍🏫 I Know :
+1. Python ( Intermediate Level )
+2. Shell Script
+3. Power Shell
+
+😃 Thank's For Reading !
