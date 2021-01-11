@@ -20,3 +20,4 @@
 
 
 <p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ArmTimDev&theme=algolia&show_icons=true" alt="ArmTimDev"/></p>
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armtimdev&show_icons=true&theme=radical&layout=compact)](https://github.com/armtimdev)
