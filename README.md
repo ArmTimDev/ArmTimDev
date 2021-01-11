@@ -15,4 +15,6 @@
 2. Shell Script
 3. Power Shell
 
+<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ArmTimDev&theme=algolia&show_icons=true" alt="sppidy"/></p>
+
 😃 Thank's For Reading !
