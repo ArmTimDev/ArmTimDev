@@ -3,6 +3,8 @@
 
 ✨ I Have 11 Years Old !
 
+🏫 I'm Taha School Student !
+
 👨‍💻 I Love Programming !
 
 👨‍🎓 Im Learning :
