@@ -20,5 +20,7 @@
 3. Power Shell
 4. RiveScript
 
+I HATE ☀ Light Mode And I Love 🌑 Dark Mode ! 
+
 
 <p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ArmTimDev&theme=algolia&show_icons=true" alt="ArmTimDev"/></p>
