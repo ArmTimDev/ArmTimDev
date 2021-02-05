@@ -7,7 +7,7 @@
 
 👨‍💻 I Love Programming !
 
-🐍 Currently I'm Working On Something Special Named Cobra !
+🐍 Currently I'm Working On Something Special Named Vippy !
 
 🌙 I'm A Dark Mode Lover ;-)
 
