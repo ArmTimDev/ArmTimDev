@@ -14,6 +14,12 @@
 
 🌙 I'm A Dark Mode Lover ;-)
 
+💻 Programs I Will Use Everyday 
+
+ [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com) 
+ [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/) 
+ [![Termux](https://img.shields.io/badge/-Termux-%232c3e50?style=flat-square&logo=typescript)](https://termux.com)
+
 👨‍🎓 Im Learning :
 1. HTML ( Not A Programming Language 😅 )
 2. CSS
