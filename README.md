@@ -33,8 +33,8 @@
 
 **🌐 Contact Me :**
 
-[!Telegram Badge](https://img.shields.io/badge/-ItsArmanDev-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/ItsArmanDev)
-[!Gmail Badge](https://img.shields.io/badge/-Arm.Tim.Dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Arm.Tim.Dev@gmail.com)
+![Telegram Badge](https://img.shields.io/badge/-ItsArmanDev-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/ItsArmanDev)
+![Gmail Badge](https://img.shields.io/badge/-Arm.Tim.Dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Arm.Tim.Dev@gmail.com)
 
 
 <p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ArmTimDev&theme=algolia&show_icons=true" alt="ArmTimDev"/></p>
