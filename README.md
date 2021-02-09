@@ -1,5 +1,5 @@
 ### Hello ! 👋
-🤖 [![Profile views](https://gpvc.arturio.dev/ArmTimDev)
+🤖 [!Profile views](https://gpvc.arturio.dev/ArmTimDev)
 
 ℹ My Name Is Arman !
 
