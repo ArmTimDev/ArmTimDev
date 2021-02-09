@@ -1,4 +1,6 @@
 ### Hello ! 👋
+🤖 [![Profile views](https://gpvc.arturio.dev/ArmTimDev)
+
 ℹ My Name Is Arman !
 
 ✨ I Have 11 Years Old !
