@@ -22,7 +22,7 @@
 
 **👨‍🎓 Im Learning :**
 1. HTML ( Not A Programming Language 😅 )
-2. [![HTML](https://img.shields.io/badge/HTML-Hypertext%20Markup%20Language-green)
+2. [![HTML](https://img.shields.io/badge/-HTML-%232c3e50?style=flat-square&logo=html)
 3. [![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript)
 
 **👨‍🏫 I Know :**
