@@ -1,6 +1,6 @@
 ### Hello ! 👋
 
-[Profile Views](https://gpvc.arturio.dev/ArmTimDev)
+![Profile Views](https://gpvc.arturio.dev/ArmTimDev)
 
 ℹ My Name Is Arman !
 
