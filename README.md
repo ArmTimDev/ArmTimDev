@@ -1,8 +1,8 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> **Hello !** 
+### <img src="https://i.pinimg.com/originals/3d/1b/73/3d1b739fb2546948f207d2be7ae1b105.gif" width="20px"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> **Hello !** 
 
 ![Profile Views](https://gpvc.arturio.dev/ArmTimDev) 
 
-**ℹ My Name Is Arman !**  <img src="https://pic.funnygifsbox.com/uploads/2021/01/funnygifsbox.com-2021-01-31-08-40-50-91.gif" width="50px">
+**ℹ My Name Is Arman !** 
 
 **✨ I Have 11 Years Old !**
 
