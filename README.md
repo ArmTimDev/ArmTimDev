@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> **Hello !** <img src="https://cdn.vox-cdn.com/uploads/chorus_asset/file/8864405/emoji_update_new.gif" width="100px">
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> **Hello !** 
 
 ![Profile Views](https://gpvc.arturio.dev/ArmTimDev) 
 
