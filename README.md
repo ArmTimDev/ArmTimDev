@@ -1,14 +1,14 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hello !
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> **Hello !** <img src="https://cdn.vox-cdn.com/uploads/chorus_asset/file/8864405/emoji_update_new.gif" width="100px">
 
-![Profile Views](https://gpvc.arturio.dev/ArmTimDev)         <img src="https://pic.funnygifsbox.com/uploads/2021/01/funnygifsbox.com-2021-01-31-08-40-50-91.gif" width="50px">
+![Profile Views](https://gpvc.arturio.dev/ArmTimDev) 
 
-**ℹ My Name Is Arman !**
+**ℹ My Name Is Arman !**  <img src="https://pic.funnygifsbox.com/uploads/2021/01/funnygifsbox.com-2021-01-31-08-40-50-91.gif" width="50px">
 
 **✨ I Have 11 Years Old !**
 
 **🏫 I'm Taha School Student !**
 
-**👨‍💻 I Love Programming !**
+**👨‍💻 I Love Programming !** 
 
 **🐍 Currently I'm Working On Something Special Named [Vippy](https://github.com/ArmTimDev/Vippy/) !**
 
