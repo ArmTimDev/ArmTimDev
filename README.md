@@ -10,9 +10,11 @@
 
 **👨‍💻 I Love Programming !** 
 
-**🐍 Currently I'm Working On Something Special Named [Vippy](https://github.com/ArmTimDev/Vippy/) !**  <img src="https://i.pinimg.com/originals/3d/1b/73/3d1b739fb2546948f207d2be7ae1b105.gif" width="100">
+**🐍 Currently I'm Working On Something Special Named [Vippy](https://github.com/ArmTimDev/Vippy/) !**
 
 **🌙 I'm A Dark Mode Lover ;-)**
+
+<img src="https://i.pinimg.com/originals/3d/1b/73/3d1b739fb2546948f207d2be7ae1b105.gif" width="100">
 
 **💻 Programs I Will Use Everyday**
 
