@@ -1,5 +1,3 @@
-<img src="https://cdn.idevie.com/wp-content/uploads/2016/04/animatedgifs5.gif" width="500px">
-
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> **Hello !** 
 
 ![Profile Views](https://gpvc.arturio.dev/ArmTimDev) 
