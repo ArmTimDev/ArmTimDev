@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> Hello !
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hello !
 
 ![Profile Views](https://gpvc.arturio.dev/ArmTimDev)
 
