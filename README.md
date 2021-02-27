@@ -1,3 +1,9 @@
+<style>
+h3 {
+  color: red;
+}
+</style>
+
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> **Hello !** 
 
 ![Profile Views](https://gpvc.arturio.dev/ArmTimDev) 
@@ -13,8 +19,6 @@
 **🐍 Currently I'm Working On Something Special Named [Vippy](https://github.com/ArmTimDev/Vippy/) !**
 
 **🌙 I'm A Dark Mode Lover ;-)**
-
-<img src="https://i.pinimg.com/originals/3d/1b/73/3d1b739fb2546948f207d2be7ae1b105.gif" width="100" class="center">
 
 **💻 Programs I Will Use Everyday**
 
