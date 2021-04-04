@@ -8,9 +8,7 @@
 
 **🏫 I'm Taha School Student !**                                                                                      
 
-**👨‍💻 I Love Programming !** 
-
-**🐍 Currently I'm Working On Something Special Named [Vippy](https://github.com/ArmTimDev/Vippy/) !**
+**👨‍💻 I Love Programming !**
 
 **🌙 I'm A Dark Mode Lover ;-)**
 
